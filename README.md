@@ -1,12 +1,12 @@
 
-### 📊 GitHub Stats:
+### GitHub Stats
 <div>
   <a href="https://github.com/rafaballerini">
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=wiecoder&theme=dracula&hide_border=false">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wiecoder&theme=dracula&hide_border=false&include_all_commits=false&count_private=true">
 </div>
 
-### 💻 Tech Stack:
+### Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -23,3 +23,9 @@
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
+  
+### Contact
+<div>
+  <a href = "mailto:karol.wieczorek.contact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kwieczorek-contact" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
