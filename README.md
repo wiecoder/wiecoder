@@ -1,16 +1,12 @@
 <h2 align="left">Hi 👋 I'm Karol Wieczorek</h2>
 <h4 align="left">A passionate data engineer from Poland</h4>
-🔭 I’m currently working on **Ticket Scraper**
-
-🌱 I’m currently learning **Cloud Technologies such as AWS & Azure**
-
 <p align="left">
 </p>
 
 
 ### GitHub Stats
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/wiecoder">
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=wiecoder&theme=dracula&hide_border=false">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wiecoder&theme=dracula&hide_border=false&include_all_commits=false&count_private=true">
 </div>
