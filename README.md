@@ -1,3 +1,12 @@
+<h2 align="left">Hi 👋 I'm Karol Wieczorek</h2>
+<h4 align="left">A passionate data engineer from Poland</h4>
+🔭 I’m currently working on **Ticket Scraper**
+
+🌱 I’m currently learning **Cloud Technologies such as AWS & Azure**
+
+<p align="left">
+</p>
+
 
 ### GitHub Stats
 <div>
