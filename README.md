@@ -8,7 +8,7 @@
 <div>
   <a href="https://github.com/wiecoder">
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=wiecoder&theme=dracula&hide_border=false">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wiecoder&theme=dracula&hide_border=false&include_all_commits=false&count_private=true">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wiecoder&theme=dracula&hide_border=false&include_all_commits=true&count_private=true">
 </div>
 
 ### Tech Stack
