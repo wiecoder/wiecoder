@@ -1,11 +1,5 @@
 ![Header](main.png)
 
-<h2 align="left">Hi 👋 I'm Karol Wieczorek</h2>
-<h4 align="left">A passionate data engineer from Poland</h4>
-<p align="left">
-</p>
-
-
 ### GitHub Stats
 <div>
   <a href="https://github.com/wiecoder">
