@@ -3,7 +3,7 @@
 ### GitHub Stats
 <div>
   <a href="https://github.com/wiecoder">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wiecoder&theme=dracula&hide_border=false">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=wiecoder&theme=bear&hide_border=false">
 </div>
 
 #### Programming Stack
